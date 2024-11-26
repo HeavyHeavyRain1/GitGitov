@@ -15,3 +15,7 @@ print('vcobkowkrawrexf')
 print('1223gfb')
 
 #Eto moe izi
+
+
+#Idi cyda
+#cdalei merge ili rebase
